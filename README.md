@@ -35,5 +35,5 @@ A news application that provides the latest updates and articles from various so
 ## Contact Info
 For questions or support, contact:
 - Name: Pryadav123
-- Email: your-email@example.com
+- Email: yprem0092@gmail.com.com
 - GitHub: [Pryadav123](https://github.com/Pryadav123)
